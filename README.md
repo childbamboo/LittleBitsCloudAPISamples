@@ -1,4 +1,4 @@
-LittleBits Cloud API Lessons
+LittleBits Cloud API Samples
 ====
 
 [littleBits][]から販売された[cloudBits][]のAPIを使ってみる。
