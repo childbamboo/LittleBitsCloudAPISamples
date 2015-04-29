@@ -38,7 +38,8 @@ cloudBitsは、[ifttt][]と組み合わせて使うと、自分の携帯電話�
 [CloudBitsAPI][]のCallback機能のサンプル。
 - cloudBitsControll.sh
     - Callbackの登録、削除
-    - index.js Callbackを受けるサーバの実装(nodeで実装)
+- index.js
+    - Callbackを受けるサーバの実装(nodeで実装)
 
 [littleBits]: http://littlebits.cc/ "LittleBits"
 [cloudBits]:  http://littlebits.cc/kits/cloudbit-starter-kit "CloudBits"
